@@ -1,0 +1,349 @@
+*{
+  font-family: Poppins;
+}
+
+.image1 {
+  width: 1366px;
+  height: 480px;
+}
+
+.logo-span {
+  background-color:#FFFFFF;
+  border-radius: 50%;
+  padding: 3px 28px;
+  position: absolute;
+  left: 610px;
+  top: 105px;
+}
+
+.logo{
+  color: #EB2929;
+  font-size: 81px;
+  font-weight: 649;
+  text-decoration: none;
+}
+
+.login_create {
+  position: absolute;
+  right: 80px;
+  top: 30px;
+  word-spacing: 10px;
+}
+
+.login {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.create {
+  color: #FFFFFF;
+  text-decoration: none;
+  border: 1px solid white;
+  padding: 10px 10px;
+  border-radius: px;
+  word-spacing: normal;
+}
+
+.titel-text {
+  color: #FFFFFF;
+  position: absolute;
+  font-family: poppins;
+  font-size: 36px;
+  top: 250px;
+  left: 306px;
+}
+
+.location {
+  width: 245px;
+  height: 60px;
+  position: absolute;
+  top: 339px;
+  left: 312px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.loc {
+  padding-top: 21px;
+  padding-left: 23px;
+  padding-right: 57px;
+  padding-bottom: 18px;
+  color: #636F88;
+}
+
+.search {
+  position: absolute;
+  top: 339px;
+  left: 578px;
+}
+
+.searchrec {
+  padding-top: 21px;
+  padding-left: 60px;
+  padding-right: 250px;
+  padding-bottom: 18px;
+  color: #636F88;
+  background: white url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+
+.QuickSea {
+  position: absolute;
+  top: 528px;
+  left: 113px;
+  color: #192F60;
+}
+
+.text {
+  position: absolute;
+  top: 578px;
+  left: 113px;
+  color: #8C96AB;
+}
+
+.Breakfast{
+  position: absolute;
+  top: 636px;
+  left: 113px;
+}
+
+.Breakfast-article {
+  width: 360px;
+  height: 160px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+}
+
+.img2 {
+  position: absolute;
+  height: 160px;
+  width: 160px;
+}
+
+.BF1-text {
+  position: absolute;
+  top: 25px;
+  left: 189px;
+  width: 88px;
+  height: 25px;
+  color: #192F60 ;
+}
+
+.BF2-text {
+  position: absolute;
+  top: 54px;
+  left: 189px;
+  width: 138px;
+  height: 62px;
+  color: #8C96AB;
+}
+
+/* hello */
+
+
+.Lunch {
+  position: absolute;
+  top: 636px;
+  left: 503px;
+}
+
+.Lunch-article {
+  width: 360px;
+  height: 160px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+}
+
+.img3 {
+  position: absolute;
+  height: 160px;
+  width: 160px;
+}
+
+.LN1-text {
+  position: absolute;
+  top: 25px;
+  left: 189px;
+  width: 55px;
+  height: 25px;
+  color: #192F60 ;
+}
+
+.LN2-text {
+  position: absolute;
+  top: 54px;
+  left: 189px;
+  width: 138px;
+  height: 62px;
+  color: #8C96AB;
+}
+
+
+/* HELLO */
+
+
+.Snacks {
+  position: absolute;
+  top: 636px;
+  left: 893px;
+}
+
+.Snacks-article {
+  width: 360px;
+  height: 160px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+}
+
+.img4 {
+  position: absolute;
+  height: 160px;
+  width: 160px;
+}
+
+.SN1-text {
+  position: absolute;
+  top: 25px;
+  left: 189px;
+  width: 66px;
+  height: 25px;
+  color: #192F60 ;
+}
+
+.SN2-text {
+  position: absolute;
+  top: 54px;
+  left: 189px;
+  width: 138px;
+  height: 62px;
+  color: #8C96AB;
+}
+
+/* HELLO */
+
+.Dinner {
+  position: absolute;
+  top: 822px;
+  left: 113px;
+}
+
+.Dinner-article {
+  width: 360px;
+  height: 160px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+}
+
+.img5 {
+  position: absolute;
+  height: 160px;
+  width: 160px;
+}
+
+.DN1-text {
+  position: absolute;
+  top: 25px;
+  left: 189px;
+  width: 66px;
+  height: 25px;
+  color: #192F60 ;
+}
+
+.DN2-text {
+  position: absolute;
+  top: 54px;
+  left: 189px;
+  width: 138px;
+  height: 62px;
+  color: #8C96AB;
+}
+
+/* HELLO */
+
+.Drinks {
+  position: absolute;
+  top: 822px;
+  left: 503px;
+}
+
+.Drinks-article {
+  width: 360px;
+  height: 160px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+}
+
+.img6 {
+  position: absolute;
+  height: 160px;
+  width: 160px;
+}
+
+.DK1-text {
+  position: absolute;
+  top: 25px;
+  left: 189px;
+  width: 66px;
+  height: 25px;
+  color: #192F60 ;
+}
+
+.DK2-text {
+  position: absolute;
+  top: 54px;
+  left: 189px;
+  width: 138px;
+  height: 62px;
+  color: #8C96AB;
+}
+
+/* HELLO */
+
+
+.Nightlife {
+  position: absolute;
+  top: 822px;
+  left: 893px;
+}
+
+.Nightlife-article {
+  width: 360px;
+  height: 160px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+}
+
+.img7 {
+  position: absolute;
+  height: 160px;
+  width: 160px;
+}
+
+.NL1-text {
+  position: absolute;
+  top: 25px;
+  left: 189px;
+  width: 77px;
+  height: 25px;
+  color: #192F60 ;
+}
+
+.NL2-text {
+  position: absolute;
+  top: 54px;
+  left: 189px;
+  width: 138px;
+  height: 62px;
+  color: #8C96AB;
+}
+
+
+
+
+
