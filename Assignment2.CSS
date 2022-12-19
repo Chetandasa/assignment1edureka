@@ -51,41 +51,43 @@
   font-size: 36px;
   top: 250px;
   left: 306px;
+ 
 }
 
 .location {
-  width: 245px;
-  height: 60px;
   position: absolute;
   top: 339px;
   left: 312px;
-  background: #FFFFFF 0% 0% no-repeat padding-box;
-  opacity: 1;
+  width: 245px;
+  height: 60px;
 }
 
 .loc {
   padding-top: 21px;
   padding-left: 23px;
+  padding-bottom: 17px;
   padding-right: 57px;
-  padding-bottom: 18px;
   color: #636F88;
+  width: 165px;
+  height: 21px;
 }
 
 .search {
   position: absolute;
   top: 339px;
   left: 578px;
+
 }
 
 .searchrec {
   padding-top: 21px;
   padding-left: 60px;
-  padding-right: 250px;
   padding-bottom: 18px;
+  width: 477px;
+  height: 60px;
   color: #636F88;
   background: white url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
 }
-
 
 .QuickSea {
   position: absolute;
@@ -139,9 +141,6 @@
   color: #8C96AB;
 }
 
-/* hello */
-
-
 .Lunch {
   position: absolute;
   top: 636px;
@@ -179,10 +178,6 @@
   height: 62px;
   color: #8C96AB;
 }
-
-
-/* HELLO */
-
 
 .Snacks {
   position: absolute;
@@ -262,8 +257,6 @@
   color: #8C96AB;
 }
 
-/* HELLO */
-
 .Drinks {
   position: absolute;
   top: 822px;
@@ -302,9 +295,6 @@
   color: #8C96AB;
 }
 
-/* HELLO */
-
-
 .Nightlife {
   position: absolute;
   top: 822px;
@@ -342,8 +332,4 @@
   height: 62px;
   color: #8C96AB;
 }
-
-
-
-
 
